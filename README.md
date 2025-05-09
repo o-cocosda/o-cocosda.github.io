@@ -22,7 +22,7 @@ List of Oriental COCOSDA conferences:
 2015 China   
 2016 Indonesia   
 2017 South Korea  
-[2018 Japan](http://oriental-cocosda.org/orientalcocosda2018/)
+[2018 Japan](http://oriental-cocosda.org/orientalcocosda2018/)  
 2019 Philippines   
 [2020 Myanmar](https://ococosda2020.ucsy.edu.mm/)    
 2021 Singapore   
@@ -31,6 +31,6 @@ List of Oriental COCOSDA conferences:
 [2024 Taiwan](http://oriental-cocosda.org/2024/)   
 [2025 Indonesia](http://oriental-cocosda.org/2025/)  
 2026 ?   
-2027 ?
-2028 Japan 
+2027 ?  
+2028 Japan   
 2029 ?
