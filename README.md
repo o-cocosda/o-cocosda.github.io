@@ -1,6 +1,4 @@
-# o-cocosda.github.io  
-
-List of Oriental COCOSDA conferences:  
+# List of Oriental COCOSDA conferences:  
 
 1998 Japan   
 1999 Taiwan  
