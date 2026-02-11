@@ -28,7 +28,8 @@
 2023 India   
 [2024 Taiwan](http://oriental-cocosda.org/2024/)   
 [2025 Indonesia](http://oriental-cocosda.org/2025/)  
-2026 ?   
+2026 Philippines   
 2027 ?  
 2028 Japan   
 2029 ?
+2030 ?
